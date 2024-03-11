@@ -7,5 +7,5 @@ go build .
 
 ### Run instructions
 ```bash
-PORT=5555 ./docker-demo
+PORT=5555 ./docker-demo site
 ```
